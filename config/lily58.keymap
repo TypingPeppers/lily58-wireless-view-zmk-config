@@ -44,11 +44,11 @@
 
         layer_2 {
             bindings = <
-&trans  &trans  &trans  &trans  &trans     &trans                          &trans        &trans          &trans          &trans           &trans  &kp DELETE
-&trans  &trans  &trans  &trans  &kp GRAVE  &kp KP_MINUS                    &kp KP_EQUAL  &trans          &kp UP_ARROW    &trans           &trans  &trans
-&trans  &trans  &trans  &trans  &kp TILDE  &kp UNDER                       &kp PLUS      &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans  &trans
-&trans  &trans  &trans  &trans  &trans     &trans        &trans    &trans  &trans        &trans          &trans          &trans           &trans  &trans
-                        &trans  &trans     &trans        &trans    &trans  &trans        &trans          &trans
+&trans  &trans  &trans  &trans  &trans     &trans                       &trans     &trans          &trans          &trans           &trans  &kp DELETE
+&trans  &trans  &trans  &trans  &kp GRAVE  &kp MINUS                    &kp EQUAL  &trans          &kp UP_ARROW    &trans           &trans  &trans
+&trans  &trans  &trans  &trans  &kp TILDE  &kp UNDER                    &kp PLUS   &kp LEFT_ARROW  &kp DOWN_ARROW  &kp RIGHT_ARROW  &trans  &trans
+&trans  &trans  &trans  &trans  &trans     &trans     &trans    &trans  &trans     &trans          &trans          &trans           &trans  &trans
+                        &trans  &trans     &trans     &trans    &trans  &trans     &trans          &trans
             >;
         };
 
